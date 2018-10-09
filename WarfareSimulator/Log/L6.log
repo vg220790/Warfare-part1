@@ -1,0 +1,24 @@
+יולי 25, 2018 1:09:25 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M4 hit the target! destination: Beer-Sheva launch time: 24 hit time: 37 damage: 4500.000000
+יולי 25, 2018 2:31:52 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M4 hit the target! destination: Sderot launch time: 11 hit time: 12 damage: 3500.000000
+יולי 25, 2018 2:35:50 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M1 hit the target! destination: Sderot launch time: 9 hit time: 12 damage: 1500.000000
+יולי 25, 2018 11:41:01 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M6 hit the target! destination: Ofakim launch time: 15 hit time: 17 damage: 1500.000000
+יולי 26, 2018 12:07:45 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M9 hit the target! destination: Beer-Sheva launch time: 21 hit time: 28 damage: 5000.000000
+יולי 26, 2018 12:07:47 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M15 hit the target! destination: Ofakim launch time: 28 hit time: 30 damage: 3000.000000
+יולי 26, 2018 12:07:59 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M16 hit the target! destination: Beer-Sheva launch time: 30 hit time: 40 damage: 1500.000000
+יולי 26, 2018 12:08:11 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M20 hit the target! destination: Beer-Sheva launch time: 41 hit time: 53 damage: 4000.000000
+יולי 26, 2018 12:08:19 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M31 hit the target! destination: Ofakim launch time: 53 hit time: 61 damage: 2500.000000
+יולי 26, 2018 12:33:13 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M2 hit the target! destination: Sderot launch time: 12 hit time: 14 damage: 3000.000000
+יולי 26, 2018 12:34:31 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M4 hit the target! destination: Ofakim launch time: 22 hit time: 29 damage: 5000.000000
+יולי 26, 2018 12:34:58 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L6: missile M18 hit the target! destination: Beer-Sheva launch time: 47 hit time: 55 damage: 3000.000000

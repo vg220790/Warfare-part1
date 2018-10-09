@@ -1,0 +1,308 @@
+יול 18, 2018 5:01:19 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 4 hit time: 14 damage: 3500.000000
+יול 18, 2018 6:18:58 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 4 hit time: 16 damage: 500.000000
+יול 18, 2018 6:19:07 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Beer-Sheva launch time: 16 hit time: 25 damage: 1500.000000
+יול 18, 2018 6:19:11 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M6 hit the target! destination: Ofakim launch time: 25 hit time: 29 damage: 4500.000000
+יול 18, 2018 6:19:20 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Ofakim launch time: 29 hit time: 38 damage: 3500.000000
+יול 18, 2018 6:19:29 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Beer-Sheva launch time: 38 hit time: 47 damage: 1500.000000
+יול 18, 2018 6:19:40 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Ofakim launch time: 47 hit time: 58 damage: 4500.000000
+יול 18, 2018 6:19:43 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M12 hit the target! destination: Beer-Sheva launch time: 58 hit time: 61 damage: 500.000000
+יול 18, 2018 6:19:48 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M13 hit the target! destination: Beer-Sheva launch time: 61 hit time: 66 damage: 3000.000000
+יול 18, 2018 6:19:59 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M14 hit the target! destination: Sderot launch time: 66 hit time: 77 damage: 500.000000
+יול 18, 2018 6:20:07 PM com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M15 hit the target! destination: Sderot launch time: 77 hit time: 85 damage: 1500.000000
+יולי 24, 2018 12:40:14 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Ofakim launch time: 10 hit time: 11 damage: 4000.000000
+יולי 24, 2018 12:40:25 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Sderot launch time: 19 hit time: 21 damage: 4000.000000
+יולי 24, 2018 2:57:22 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 13 hit time: 22 damage: 1500.000000
+יולי 24, 2018 8:03:02 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 6 hit time: 8 damage: 5000.000000
+יולי 24, 2018 8:24:25 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Ofakim launch time: 6 hit time: 10 damage: 1500.000000
+יולי 24, 2018 11:10:16 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 13 hit time: 17 damage: 1000.000000
+יולי 24, 2018 11:10:20 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Sderot launch time: 17 hit time: 21 damage: 3500.000000
+יולי 24, 2018 11:10:27 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Beer-Sheva launch time: 21 hit time: 28 damage: 1000.000000
+יולי 24, 2018 11:12:57 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Ofakim launch time: 16 hit time: 24 damage: 4500.000000
+יולי 24, 2018 11:13:39 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 11 hit time: 12 damage: 3000.000000
+יולי 24, 2018 11:13:41 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 13 hit time: 15 damage: 1500.000000
+יולי 24, 2018 11:13:42 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M6 hit the target! destination: Beer-Sheva launch time: 15 hit time: 16 damage: 5000.000000
+יולי 24, 2018 11:14:38 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M6 hit the target! destination: Sderot launch time: 15 hit time: 17 damage: 1000.000000
+יולי 24, 2018 11:14:44 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Ofakim launch time: 17 hit time: 23 damage: 500.000000
+יולי 24, 2018 11:17:29 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 12 hit time: 15 damage: 3000.000000
+יולי 24, 2018 11:17:38 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Sderot launch time: 16 hit time: 25 damage: 1500.000000
+יולי 24, 2018 11:17:41 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Sderot launch time: 25 hit time: 28 damage: 1500.000000
+יולי 24, 2018 11:17:48 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M11 hit the target! destination: Beer-Sheva launch time: 28 hit time: 35 damage: 4000.000000
+יולי 24, 2018 11:21:01 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Ofakim launch time: 9 hit time: 13 damage: 2000.000000
+יולי 24, 2018 11:21:05 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 13 hit time: 17 damage: 2500.000000
+יולי 24, 2018 11:21:18 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Ofakim launch time: 18 hit time: 29 damage: 2500.000000
+יולי 24, 2018 11:21:25 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Beer-Sheva launch time: 30 hit time: 37 damage: 4500.000000
+יולי 24, 2018 11:22:33 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 5 hit time: 17 damage: 3500.000000
+יולי 24, 2018 11:22:35 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 17 hit time: 19 damage: 1000.000000
+יולי 24, 2018 11:22:44 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Beer-Sheva launch time: 19 hit time: 28 damage: 1500.000000
+יולי 24, 2018 11:22:46 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Sderot launch time: 28 hit time: 30 damage: 4500.000000
+יולי 24, 2018 11:22:47 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Beer-Sheva launch time: 30 hit time: 31 damage: 1000.000000
+יולי 24, 2018 11:22:55 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M11 hit the target! destination: Beer-Sheva launch time: 31 hit time: 39 damage: 5000.000000
+יולי 24, 2018 11:23:00 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M13 hit the target! destination: Sderot launch time: 39 hit time: 44 damage: 500.000000
+יולי 24, 2018 11:23:08 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M15 hit the target! destination: Ofakim launch time: 44 hit time: 52 damage: 3000.000000
+יולי 24, 2018 11:23:21 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M16 hit the target! destination: Ofakim launch time: 52 hit time: 64 damage: 4500.000000
+יולי 24, 2018 11:23:25 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M18 hit the target! destination: Ofakim launch time: 64 hit time: 68 damage: 2000.000000
+יולי 24, 2018 11:23:32 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M21 hit the target! destination: Beer-Sheva launch time: 68 hit time: 75 damage: 1000.000000
+יולי 24, 2018 11:23:36 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M22 hit the target! destination: Ofakim launch time: 75 hit time: 79 damage: 2000.000000
+יולי 24, 2018 11:23:40 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M23 hit the target! destination: Beer-Sheva launch time: 79 hit time: 83 damage: 4000.000000
+יולי 24, 2018 11:31:18 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 10 hit time: 11 damage: 4500.000000
+יולי 24, 2018 11:32:24 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Ofakim launch time: 9 hit time: 10 damage: 5000.000000
+יולי 24, 2018 11:32:51 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Ofakim launch time: 32 hit time: 37 damage: 2500.000000
+יולי 24, 2018 11:32:54 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Beer-Sheva launch time: 38 hit time: 41 damage: 4000.000000
+יולי 24, 2018 11:32:58 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M12 hit the target! destination: Beer-Sheva launch time: 41 hit time: 45 damage: 4000.000000
+יולי 24, 2018 11:32:59 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M18 hit the target! destination: Sderot launch time: 45 hit time: 46 damage: 4500.000000
+יולי 24, 2018 11:35:20 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 11 hit time: 13 damage: 5000.000000
+יולי 24, 2018 11:35:25 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Beer-Sheva launch time: 16 hit time: 18 damage: 2500.000000
+יולי 24, 2018 11:51:24 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 14 hit time: 26 damage: 5000.000000
+יולי 25, 2018 12:42:56 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 8 hit time: 22 damage: 500.000000
+יולי 25, 2018 12:56:23 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Ofakim launch time: 7 hit time: 28 damage: 1000.000000
+יולי 25, 2018 1:13:51 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Beer-Sheva launch time: 28 hit time: 29 damage: 3500.000000
+יולי 25, 2018 1:14:03 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Beer-Sheva launch time: 35 hit time: 40 damage: 1500.000000
+יולי 25, 2018 1:14:05 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Ofakim launch time: 41 hit time: 43 damage: 4000.000000
+יולי 25, 2018 1:14:41 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M16 hit the target! destination: Sderot launch time: 72 hit time: 79 damage: 5000.000000
+יולי 25, 2018 1:18:42 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Ofakim launch time: 47 hit time: 57 damage: 3500.000000
+יולי 25, 2018 1:19:00 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Ofakim launch time: 66 hit time: 74 damage: 4000.000000
+יולי 25, 2018 1:26:30 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 10 hit time: 14 damage: 4000.000000
+יולי 25, 2018 1:26:45 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 20 hit time: 29 damage: 1500.000000
+יולי 25, 2018 1:27:40 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 21 hit time: 29 damage: 5000.000000
+יולי 25, 2018 1:35:41 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Beer-Sheva launch time: 38 hit time: 48 damage: 5000.000000
+יולי 25, 2018 1:35:46 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M11 hit the target! destination: Ofakim launch time: 49 hit time: 54 damage: 2500.000000
+יולי 25, 2018 1:46:40 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Ofakim launch time: 59 hit time: 60 damage: 2500.000000
+יולי 25, 2018 1:46:43 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M6 hit the target! destination: Beer-Sheva launch time: 60 hit time: 63 damage: 4000.000000
+יולי 25, 2018 1:55:13 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Sderot launch time: 38 hit time: 40 damage: 2000.000000
+יולי 25, 2018 2:11:18 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Sderot launch time: 133 hit time: 138 damage: 4500.000000
+יולי 25, 2018 2:11:28 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Sderot launch time: 146 hit time: 148 damage: 3500.000000
+יולי 25, 2018 2:11:43 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Beer-Sheva launch time: 155 hit time: 163 damage: 3000.000000
+יולי 25, 2018 2:11:46 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M11 hit the target! destination: Beer-Sheva launch time: 163 hit time: 166 damage: 5000.000000
+יולי 25, 2018 2:11:49 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M12 hit the target! destination: Ofakim launch time: 166 hit time: 169 damage: 4500.000000
+יולי 25, 2018 2:16:17 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 8 hit time: 19 damage: 4000.000000
+יולי 25, 2018 2:31:58 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 7 hit time: 17 damage: 2000.000000
+יולי 25, 2018 2:32:01 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Sderot launch time: 17 hit time: 20 damage: 1000.000000
+יולי 25, 2018 2:40:41 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Sderot launch time: 108 hit time: 113 damage: 4500.000000
+יולי 25, 2018 2:40:57 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Sderot launch time: 119 hit time: 130 damage: 2500.000000
+יולי 25, 2018 2:45:26 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 31 hit time: 40 damage: 2500.000000
+יולי 25, 2018 2:52:04 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 6 hit time: 11 damage: 3000.000000
+יולי 25, 2018 2:52:21 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Ofakim launch time: 21 hit time: 28 damage: 3000.000000
+יולי 25, 2018 2:52:26 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Ofakim launch time: 28 hit time: 33 damage: 1500.000000
+יולי 25, 2018 2:54:19 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M22 hit the target! destination: Ofakim launch time: 139 hit time: 146 damage: 3000.000000
+יולי 25, 2018 2:54:40 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M25 hit the target! destination: Ofakim launch time: 163 hit time: 166 damage: 5000.000000
+יולי 25, 2018 11:49:07 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 6 hit time: 11 damage: 2000.000000
+יולי 25, 2018 11:50:18 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Sderot launch time: 20 hit time: 25 damage: 5000.000000
+יולי 25, 2018 11:50:28 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Sderot launch time: 27 hit time: 34 damage: 2500.000000
+יולי 26, 2018 12:07:28 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Beer-Sheva launch time: 9 hit time: 10 damage: 1000.000000
+יולי 26, 2018 12:07:30 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Beer-Sheva launch time: 10 hit time: 12 damage: 3500.000000
+יולי 26, 2018 12:07:51 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M21 hit the target! destination: Ofakim launch time: 24 hit time: 33 damage: 1500.000000
+יולי 26, 2018 12:08:02 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M22 hit the target! destination: Sderot launch time: 34 hit time: 44 damage: 4500.000000
+יולי 26, 2018 12:08:08 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M26 hit the target! destination: Beer-Sheva launch time: 46 hit time: 50 damage: 1000.000000
+יולי 26, 2018 12:13:26 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 5 hit time: 11 damage: 5000.000000
+יולי 26, 2018 12:28:55 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 12 hit time: 21 damage: 3500.000000
+יולי 26, 2018 12:33:13 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 13 hit time: 14 damage: 500.000000
+יולי 26, 2018 12:34:31 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Beer-Sheva launch time: 22 hit time: 29 damage: 5000.000000
+יולי 26, 2018 12:34:39 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Beer-Sheva launch time: 29 hit time: 37 damage: 3000.000000
+יולי 26, 2018 12:34:57 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M16 hit the target! destination: Beer-Sheva launch time: 46 hit time: 55 damage: 1000.000000
+יולי 26, 2018 12:35:00 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M21 hit the target! destination: Ofakim launch time: 55 hit time: 58 damage: 2000.000000
+יולי 26, 2018 12:35:28 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M22 hit the target! destination: Beer-Sheva launch time: 84 hit time: 85 damage: 4500.000000
+יולי 26, 2018 12:35:41 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M24 hit the target! destination: Sderot launch time: 86 hit time: 98 damage: 5000.000000
+יולי 26, 2018 12:42:34 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 19 hit time: 25 damage: 3500.000000
+יולי 26, 2018 12:44:17 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 10 hit time: 17 damage: 4000.000000
+יולי 26, 2018 12:44:19 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 17 hit time: 19 damage: 3500.000000
+יולי 26, 2018 12:44:32 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Sderot launch time: 29 hit time: 32 damage: 4000.000000
+יולי 26, 2018 12:44:39 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M12 hit the target! destination: Sderot launch time: 32 hit time: 39 damage: 4500.000000
+יולי 26, 2018 12:45:32 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 12 hit time: 18 damage: 2500.000000
+יולי 26, 2018 12:45:34 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 18 hit time: 20 damage: 1000.000000
+יולי 26, 2018 12:49:46 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 7 hit time: 10 damage: 3000.000000
+יולי 26, 2018 12:50:01 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M8 hit the target! destination: Beer-Sheva launch time: 16 hit time: 24 damage: 4500.000000
+יולי 26, 2018 12:50:06 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Ofakim launch time: 25 hit time: 30 damage: 4500.000000
+יולי 26, 2018 12:50:16 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M11 hit the target! destination: Sderot launch time: 30 hit time: 39 damage: 500.000000
+יולי 26, 2018 1:01:09 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M15 hit the target! destination: Sderot launch time: 54 hit time: 63 damage: 4500.000000
+יולי 26, 2018 1:01:15 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M18 hit the target! destination: Sderot launch time: 63 hit time: 69 damage: 3000.000000
+יולי 26, 2018 1:01:19 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M19 hit the target! destination: Ofakim launch time: 69 hit time: 73 damage: 2500.000000
+יולי 26, 2018 1:02:26 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 10 hit time: 19 damage: 4000.000000
+יולי 26, 2018 1:03:11 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Beer-Sheva launch time: 10 hit time: 16 damage: 4000.000000
+יולי 26, 2018 1:03:12 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 16 hit time: 17 damage: 3500.000000
+יולי 26, 2018 1:03:22 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Sderot launch time: 17 hit time: 27 damage: 500.000000
+יולי 26, 2018 1:45:02 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Sderot launch time: 6 hit time: 18 damage: 1000.000000
+יולי 26, 2018 1:48:12 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 42 hit time: 53 damage: 1500.000000
+יולי 26, 2018 1:48:24 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Beer-Sheva launch time: 59 hit time: 65 damage: 5000.000000
+יולי 26, 2018 1:48:32 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M16 hit the target! destination: Beer-Sheva launch time: 71 hit time: 72 damage: 3500.000000
+יולי 26, 2018 1:48:55 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M20 hit the target! destination: Ofakim launch time: 86 hit time: 96 damage: 2000.000000
+יולי 26, 2018 3:33:37 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 was destroyed! launch time: 14 destroy time: 16
+יולי 26, 2018 3:33:48 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 was destroyed! launch time: 21 destroy time: 25
+יולי 26, 2018 3:33:55 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 28 hit time: 35 damage: 5000.000000
+יולי 26, 2018 3:55:35 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 14 hit time: 17 damage: 3000.000000
+יולי 26, 2018 3:55:50 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 was destroyed! launch time: 24 destroy time: 28
+יולי 26, 2018 3:57:48 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Beer-Sheva launch time: 13 hit time: 22 damage: 2000.000000
+יולי 26, 2018 3:57:54 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 was destroyed! launch time: 22 destroy time: 27
+יולי 26, 2018 3:58:10 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Ofakim launch time: 34 hit time: 44 damage: 2500.000000
+יולי 26, 2018 3:59:47 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 12 hit time: 19 damage: 500.000000
+יולי 26, 2018 4:08:40 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 hit the target! destination: Ofakim launch time: 7 hit time: 17 damage: 3000.000000
+יולי 26, 2018 12:14:16 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Beer-Sheva launch time: 39 hit time: 51 damage: 2500.000000
+יולי 26, 2018 12:15:51 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 was destroyed! launch time: 139 destroy time: 142
+יולי 26, 2018 12:23:39 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M1 was destroyed! launch time: 9 destroy time: 12
+יולי 26, 2018 12:23:43 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 13 hit time: 17 damage: 3000.000000
+יולי 26, 2018 12:24:19 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M9 hit the target! destination: Beer-Sheva launch time: 51 hit time: 53 damage: 1000.000000
+יולי 26, 2018 12:24:57 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 was destroyed! launch time: 28 destroy time: 30
+יולי 26, 2018 12:25:25 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M6 hit the target! destination: Beer-Sheva launch time: 57 hit time: 58 damage: 5000.000000
+יולי 26, 2018 12:25:36 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M7 hit the target! destination: Sderot launch time: 58 hit time: 69 damage: 5000.000000
+יולי 26, 2018 12:26:11 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M10 hit the target! destination: Ofakim launch time: 96 hit time: 104 damage: 500.000000
+יולי 26, 2018 12:27:16 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M13 hit the target! destination: Ofakim launch time: 50 hit time: 57 damage: 2000.000000
+יולי 26, 2018 2:00:36 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Sderot launch time: 44 hit time: 47 damage: 1000.000000
+יולי 26, 2018 2:01:59 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Ofakim launch time: 15 hit time: 24 damage: 2500.000000
+יולי 26, 2018 2:02:05 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M4 hit the target! destination: Sderot launch time: 24 hit time: 29 damage: 1000.000000
+יולי 26, 2018 2:02:07 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M5 hit the target! destination: Ofakim launch time: 29 hit time: 31 damage: 4500.000000
+יולי 26, 2018 2:07:57 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 was destroyed! launch time: 37 destroy time: 38
+יולי 26, 2018 2:08:12 אחה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M3 hit the target! destination: Beer-Sheva launch time: 56 hit time: 59 damage: 500.000000
+יולי 27, 2018 12:04:09 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L2: missile M2 hit the target! destination: Ofakim launch time: 97 hit time: 104 damage: 500.000000

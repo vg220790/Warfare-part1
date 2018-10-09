@@ -1,0 +1,12 @@
+יולי 27, 2018 12:26:20 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M3 hit the target! destination: Ofakim launch time: 4 hit time: 7 damage: 5000.000000
+יולי 27, 2018 12:26:29 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M4 was destroyed! launch time: 9 destroy time: 12
+יולי 27, 2018 12:33:47 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M3 hit the target! destination: Ofakim launch time: 4 hit time: 7 damage: 5000.000000
+יולי 27, 2018 12:33:56 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M4 was destroyed! launch time: 9 destroy time: 12
+יולי 27, 2018 12:34:38 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M3 hit the target! destination: Ofakim launch time: 4 hit time: 7 damage: 5000.000000
+יולי 27, 2018 12:34:47 לפנה״צ com.afeka.WarfareSimulator.Utils.WarLogger log
+INFO: L102: missile M4 was destroyed! launch time: 9 destroy time: 12
