@@ -133,11 +133,4 @@ public class Missile implements Runnable, Comparable<Missile> {
 	public int compareTo(Missile m) {
 		return (this.getLaunchTime() + this.getDestructAfterLaunch() - m.getLaunchTime() + m.getDestructAfterLaunch() );
 	}
-
-	
-//	@Override
-//	public int compareTo(Missile m) {
-//		return (this.launchTime - m.launchTime); 
-//	}
-
 }

@@ -1,0 +1,9 @@
+public class MyClass{
+    int bla;
+    String blabla;
+
+    public MyClass(){
+        bla = 9;
+        blabla = "blabla";
+    }
+}

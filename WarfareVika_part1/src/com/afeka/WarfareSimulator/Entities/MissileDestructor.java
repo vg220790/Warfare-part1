@@ -72,6 +72,11 @@ public class MissileDestructor implements Runnable {
 	
 	@Override
 	public void run() {
+
+		int check = 0;
+		check ++;
+		ArrayList<String> a = new ArrayList<String>();
+
 		setRunning(true);
 		while (getRunning()) {
 			if (!destructedMissiles.isEmpty()) {
