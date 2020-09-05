@@ -18,6 +18,7 @@ public class Launcher implements Runnable, Comparable<Launcher> {
 	private boolean running;
 	private LauncherEventListener lListener;
 	private int destructTime;
+	public static final MAX = 100;
 
 
 	public Launcher(String id, boolean isAlwaysHidden) {
